@@ -1,2 +1,2 @@
 # react-structure
-A basic react structure containing EditorConfig, Eslint and Prettier.
+A basic react structure containing EditorConfig, Eslint, Prettier and Jest configured.
